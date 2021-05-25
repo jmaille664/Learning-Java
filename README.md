@@ -1,2 +1,2 @@
 # Learning-Java
-A location for my java project while learning how to program. 
+A location for projects I completed while learning Java
